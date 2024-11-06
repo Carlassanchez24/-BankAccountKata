@@ -9,17 +9,6 @@ El objetivo de esta kata es practicar los principios básicos de la OOP como: Ab
 ## Descripción General
 Desarrollar un sistema simple de gestión de cuentas bancarias que permita a los usuarios realizar operaciones básicas como depositar dinero, retirar dinero y consultar el saldo. Este ejercicio te ayudará a practicar la programación orientada a objetos (OOP), el manejo de estados, y el diseño de una API sencilla.
 
-## Tabla de Contenidos
-
-1. [Funcionalidades](#funcionalidades)
-2. [Estructura del Proyecto](#estructura-del-proyecto)
-3. [Instalación](#instalación)
-4. [Uso](#uso)
-5. [Características](#características)
-6. [Contribución](#contribución)
-7. [Autores y Agradecimientos](#autores-y-agradecimientos)
-8. [Licencia](#licencia)
-9. [Contacto](#contacto)
 
 10. ### 🏁 **Contexto:**
 
